@@ -9,5 +9,7 @@ module.exports = defineConfig({
       })
       return definitions
     })
-  }
+  },
+
+  publicPath: '/vue_maskmap/dist/'
 })
