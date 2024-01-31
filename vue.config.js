@@ -11,5 +11,5 @@ module.exports = defineConfig({
     })
   },
 
-  publicPath: '/vue_maskmap/dist/'
+  publicPath: '/vue-mask/dist/'
 })
